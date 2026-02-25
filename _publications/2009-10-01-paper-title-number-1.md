@@ -1,7 +1,7 @@
 ---
 title: "Modeling individual fear factor with optimal control in a disease-dynamic system"
 collection: publications
-permalink: /publications/CSF1
+permalink: 
 venue: "Chaos, Solitons & Fractals"
 date: 2017-11-1
 citation: 'Chen, Yuyang, Kaiming Bi, Songnian Zhao, David Ben-Arieh, and Chih-Hang John Wu. "Modeling individual fear factor with optimal control in a disease-dynamic system." Chaos, Solitons & Fractals 104 (2017): 531-545.'
