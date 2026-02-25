@@ -6,7 +6,7 @@ permalink: /publication/2023-competition-sars-cov2
 excerpt: 'This paper studies the competition dynamics of SARS-CoV-2 variants during pandemic transmission.'
 date: 2023-01-01
 venue: 'Chaos, Solitons and Fractals'
-paperurl: '(https://doi-org.eproxy.lib.hku.hk/10.1016/j.chaos.2023.113193)'
+paperurl: '(https://doi.org/10.1016/j.chaos.2023.113193)'
 citation: 'Jiaqi Chen (First Author). (2023). &quot;Competition of SARS-CoV-2 Variants on the Pandemic Transmission Dynamics.&quot; <i>Chaos, Solitons and Fractals</i>.'
 ---
 
