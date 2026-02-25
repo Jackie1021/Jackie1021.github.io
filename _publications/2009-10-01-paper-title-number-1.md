@@ -7,7 +7,6 @@ excerpt: '<strong> Chen, J.<strong> , Gu, C., Ruan, Z., & Tang, M. (2023). Compe
 date: 2023-01-01
 venue: 'Chaos, Solitons and Fractals'
 paperurl: '(https://doi.org/10.1016/j.chaos.2023.113193)'
-citation: ''
 ---
 
 
