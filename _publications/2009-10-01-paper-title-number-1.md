@@ -1,9 +1,9 @@
 ---
-title: "Current visceral leishmaniasis research: a research review to inspire future study"
+title: "Modeling individual fear factor with optimal control in a disease-dynamic system"
 collection: publications
-permalink: /publications/BioMed
-venue: "BioMed research international"
-date: 2018-07-10
-citation: 'Bi, Kaiming, Yuyang Chen, Songnian Zhao, Yan Kuang, and Chih-Hang John Wu. "Current visceral leishmaniasis research: a research review to inspire future study." BioMed research international 2018 (2018).'
+permalink: /publications/CSF1
+venue: "Chaos, Solitons & Fractals"
+date: 2017-11-1
+citation: 'Chen, Yuyang, Kaiming Bi, Songnian Zhao, David Ben-Arieh, and Chih-Hang John Wu. "Modeling individual fear factor with optimal control in a disease-dynamic system." Chaos, Solitons & Fractals 104 (2017): 531-545.'
 ---
-[[PDF]](http://downloads.hindawi.com/journals/bmri/2018/9872095.pdf)
+[[PDF]](https://reader.elsevier.com/reader/sd/pii/S0960077917303740?token=E1F8DCAB9FA726A5AFEA39530731775FB08BE600F20AA6A1FDF28688E0DFA7C9AA1CE4CFD363C454A18AAE3F2BC7856E)
