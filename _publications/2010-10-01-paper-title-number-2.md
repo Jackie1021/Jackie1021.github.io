@@ -1,14 +1,9 @@
 ---
-title: "Paper Title Number 2"
+title: "Modeling individual fear factor with optimal control in a disease-dynamic system"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: 
+venue: "Chaos, Solitons & Fractals"
+date: 2017-11-1
+citation: 'Chen, Yuyang, Kaiming Bi, Songnian Zhao, David Ben-Arieh, and Chih-Hang John Wu. "Modeling individual fear factor with optimal control in a disease-dynamic system." Chaos, Solitons & Fractals 104 (2017): 531-545.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+[[PDF]](https://reader.elsevier.com/reader/sd/pii/S0960077917303740?token=E1F8DCAB9FA726A5AFEA39530731775FB08BE600F20AA6A1FDF28688E0DFA7C9AA1CE4CFD363C454A18AAE3F2BC7856E)
