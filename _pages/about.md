@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Hi! I’m Jackie — a ‘985’ Physics PhD dropout, ex-algorithm engineer, now PhD researcher @ HKU, and **Founder of [Psycho](https://psycho.ai)** (AI真人心灵社交平台).
+Hi! I’m Jackie — a ‘985’ Physics PhD dropout, ex-algorithm engineer, now PhD researcher @ HKU, and **Founder of [Psycho](/files/psycho_pitch_deck.pdf)** (AI真人心灵社交平台).
 
 I’m currently a first-year PhD student at The University of Hong Kong, working with Prof. [Ben Cowling](https://sph.hku.hk/en/Biography/Cowling-Benjamin-John) and Prof. [Sheikh Taslim Ali](https://sph.hku.hk/en/Biography/Ali-Sheikh-Taslim). I obtained my M.Sc. in Systems Science in 2024 and my B.Eng. in Information Systems and Technology in 2021.
 
@@ -24,6 +24,8 @@ My research interests lie in **Infectious disease modeling (IDM)** and **AI for 
 </div>
 
 **Psycho** is an AI-driven social networking platform dedicated to revolutionizing how people form meaningful, soulful connections — helping individuals find their true soulmate through authentic AI-powered interaction.
+
+[📄 Pitch Deck](/files/psycho_pitch_deck.pdf) &nbsp;·&nbsp; [🎬 Product Intro (中文)](/files/psycho_intro_cn.mp4) &nbsp;·&nbsp; [🎬 Product Intro (English)](/files/psycho_intro_eng.mp4)
 
 > **Key milestones:** 🏆 Merit Award · Hong Kong Techathon+ Finals &nbsp;|&nbsp; 🎓 HKU Techno-Entrepreneurship Core &nbsp;|&nbsp; 💻 Cyberport Incubation Finals &nbsp;|&nbsp; 🚀 **HKSTP Ideation Seed Funding [HK$100K, 0% equity]** &nbsp;|&nbsp; 💰 Cumulative funding: **HK$0.9M**
 >
