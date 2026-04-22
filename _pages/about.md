@@ -29,8 +29,11 @@ My research interests lie in **Infectious disease modeling (IDM)** and **AI for 
 >
 > → [View all milestones](/milestones/)
 
-
-
+<div style="margin: 2.5em 0 2em 0; display:flex; align-items:center; gap:1em;">
+  <div style="flex:1; height:1px; background: linear-gradient(to right, transparent, #bbb);"></div>
+  <span style="background:#f4f4f4; border:1px solid #ddd; border-radius:20px; padding:4px 18px; font-size:0.82em; color:#888; white-space:nowrap; letter-spacing:0.05em;">🎓 Academic Research</span>
+  <div style="flex:1; height:1px; background: linear-gradient(to left, transparent, #bbb);"></div>
+</div>
 
 Develop new multiscale modeling methods to characterize cross-scale infectious disease dynamics
 ======
