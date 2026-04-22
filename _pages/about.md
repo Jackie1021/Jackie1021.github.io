@@ -10,10 +10,24 @@ redirect_from:
 
 
 
-Hi! I’m Jackie, currently a first-year PhD student at The University of Hong Kong, working with Prof. [Ben Cowling](https://sph.hku.hk/en/Biography/Cowling-Benjamin-John) and Prof. [Sheikh Taslim Ali](https://sph.hku.hk/en/Biography/Ali-Sheikh-Taslim). 
-I obtained my M.Sc. in Systems Science in 2024 and my B.Eng. in Information Systems and Technology in 2021. 
+Hi! I’m Jackie — a ‘985’ Physics PhD dropout, ex-algorithm engineer, now PhD researcher @ HKU, and **Founder of [Psycho](https://psycho.ai)** (AI真人心灵社交平台).
 
-My research interests lie in **Infectious disease modeling (IDM)** and  **AI for health (AI4health)**.
+I’m currently a first-year PhD student at The University of Hong Kong, working with Prof. [Ben Cowling](https://sph.hku.hk/en/Biography/Cowling-Benjamin-John) and Prof. [Sheikh Taslim Ali](https://sph.hku.hk/en/Biography/Ali-Sheikh-Taslim). I obtained my M.Sc. in Systems Science in 2024 and my B.Eng. in Information Systems and Technology in 2021.
+
+My research interests lie in **Infectious disease modeling (IDM)** and **AI for health (AI4health)**.
+
+---
+
+<div style="display:flex;align-items:center;gap:1em;flex-wrap:wrap;margin:1em 0 0.6em 0;">
+  <img src="/images/psycho_logo.png" alt="Psycho" style="height:44px;border-radius:8px;">
+  <strong style="font-size:1.1em;">Founder · Psycho &nbsp;<span style="font-weight:400;color:#666;font-size:0.85em;">AI真人心灵社交平台</span></strong>
+</div>
+
+**Psycho** is an AI-driven social networking platform dedicated to revolutionizing how people form meaningful, soulful connections — helping individuals find their true soulmate through authentic AI-powered interaction.
+
+> **Key milestones:** 🏆 Merit Award · Hong Kong Techathon+ Finals &nbsp;|&nbsp; 🎓 HKU Techno-Entrepreneurship Core &nbsp;|&nbsp; 💻 Cyberport Incubation Finals &nbsp;|&nbsp; 🚀 **HKSTP Ideation Seed Funding [HK$100K, 0% equity]** &nbsp;|&nbsp; 💰 Cumulative funding: **HK$0.9M**
+>
+> → [View all milestones](/milestones/)
 
 
 
