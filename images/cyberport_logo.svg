@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 160" width="320" height="160">
+  <!-- Dark navy background -->
+  <rect width="320" height="160" fill="#0d2240" rx="8"/>
+  <!-- Swoosh: multicolor gradient bar -->
+  <defs>
+    <linearGradient id="swoosh" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0066cc"/>
+      <stop offset="40%" style="stop-color:#00aadd"/>
+      <stop offset="70%" style="stop-color:#66cc44"/>
+      <stop offset="100%" style="stop-color:#ccdd00"/>
+    </linearGradient>
+  </defs>
+  <polygon points="40,118 280,108 280,122 40,132" fill="url(#swoosh)" opacity="0.95"/>
+  <!-- Chinese text -->
+  <text x="40" y="80" font-family="Arial, sans-serif" font-size="22" fill="white" font-weight="600">數碼港</text>
+  <!-- English text -->
+  <text x="40" y="108" font-family="Arial, sans-serif" font-size="38" fill="white" font-style="italic" font-weight="300" letter-spacing="-1">Cyberport</text>
+</svg>
