@@ -2,7 +2,7 @@
 title: "Collective Interactions, Human Mobility and Viral Evolution Shaped the SARS-CoV-2 Transmission in Mainland China"
 collection: publications
 permalink: /publication/2025-12-17-collective-interactions-mainland-china
-excerpt: 'Co-Author (1st author: Dong Wang) | *medRxiv* preprint (Under Revision) — A spatial higher-order modeling framework integrating human mobility, viral evolution, and collective interactions to explain SARS-CoV-2 transmission heterogeneity across mainland China.'
+excerpt: 'Co-Author | *medRxiv* preprint (Under Revision) — A spatial higher-order modeling framework integrating human mobility, viral evolution, and collective interactions to explain SARS-CoV-2 transmission heterogeneity across mainland China.'
 date: 2025-12-17
 venue: 'medRxiv (preprint)'
 paperurl: 'https://www.medrxiv.org/content/10.64898/2025.12.17.25342513v1'
@@ -12,7 +12,7 @@ citation: 'Wang, D., Wang, Y., Gressani, O., Chen, J., Tao, Y., Wang, H., Li, S.
 <div style="margin-bottom: 1em;">
   <span style="background:#f39c12;color:white;padding:3px 10px;border-radius:12px;font-size:0.85em;font-weight:bold;">🔄 Under Revision</span>
   &nbsp;
-  <span style="background:#7f8c8d;color:white;padding:3px 10px;border-radius:12px;font-size:0.85em;">Co-Author · 1st: Dong Wang</span>
+  <span style="background:#7f8c8d;color:white;padding:3px 10px;border-radius:12px;font-size:0.85em;">Co-Author</span>
 </div>
 
 ## Preprint
