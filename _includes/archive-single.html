@@ -41,8 +41,14 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
-          {% if post.submission %}
+          {% if post.status == 'submission' or post.submission %}
             <p><strong style="color:#e67e22;">Manuscript under submission</strong> &nbsp;·&nbsp; target: <i>{{ post.venue }}</i> &nbsp;·&nbsp; {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% elsif post.status == 'review' %}
+            <p><strong style="color:#e67e22;">Under review</strong> at <i>{{ post.venue }}</i> &nbsp;·&nbsp; {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% elsif post.status == 'submitted' %}
+            <p><strong style="color:#9b59b6;">Submitted</strong> to <i>{{ post.venue }}</i> &nbsp;·&nbsp; {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% elsif post.status == 'preprint' %}
+            <p><strong style="color:#8e44ad;">Preprint</strong> &nbsp;·&nbsp; <i>{{ post.venue }}</i> &nbsp;·&nbsp; {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% else %}
             <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% endif %}

@@ -5,7 +5,8 @@ permalink: /publication/2024-01-01-npi-pathogen-mutation
 excerpt: '**First Author** | *Nature Communications* (Under Review) | **IF: 16.6** · Rank **#8/135** in Multidisciplinary Sciences — A novel Bayesian machine learning framework linking macroscopic public health policies to microscopic pathogen evolutionary dynamics.'
 date: 2024-01-01
 venue: 'Nature Communications'
-citation: 'Chen, J. et al. (2024). &quot;Unraveling the Impact of Non-Pharmaceutical Interventions on Pathogen Mutation.&quot; <i>Nature Communications</i> (Under Review).'
+status: 'review'
+citation: '<b>Chen, J.</b>, Wang, D., Wu, P., Cowling, B. J., &amp; Ali, S. T. (2024). &quot;Unraveling the Impact of Non-Pharmaceutical Interventions on Pathogen Mutation.&quot; <i>Nature Communications</i> (Under Review).'
 ---
 
 <div style="margin-bottom: 1em;">
@@ -17,6 +18,10 @@ citation: 'Chen, J. et al. (2024). &quot;Unraveling the Impact of Non-Pharmaceut
 ## Journal
 
 **Nature Communications** &nbsp;|&nbsp; Impact Factor: **16.6** &nbsp;|&nbsp; Rank **#8 / 135** in Multidisciplinary Sciences
+
+## Authors
+
+**Jiaqi Chen**, Dong Wang, Peng Wu, Benjamin J. Cowling, Sheikh Taslim Ali
 
 ## Abstract
 

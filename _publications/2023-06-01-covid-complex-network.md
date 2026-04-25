@@ -5,7 +5,8 @@ permalink: /publication/2023-06-01-covid-complex-network
 excerpt: 'Co-Author | *Europhysics Letters* (Submitted) | **IF: 1.8** · Rank **#49/110** in Physics, Multidisciplinary — A comprehensive review of network-based mathematical modeling approaches for COVID-19 spreading dynamics.'
 date: 2023-06-01
 venue: 'Europhysics Letters'
-citation: 'et al., Chen, J. (2023). &quot;Modeling and Analysis of COVID-19 Spreading Dynamics Based on Complex Network Theory.&quot; <i>Europhysics Letters</i> (Submitted).'
+status: 'submitted'
+citation: 'Gu, C., <b>Chen, J.</b>, Ruan, Z., &amp; Tang, M. (2023). &quot;Modeling and Analysis of COVID-19 Spreading Dynamics Based on Complex Network Theory.&quot; <i>Europhysics Letters</i> (Submitted).'
 ---
 
 <div style="margin-bottom: 1em;">

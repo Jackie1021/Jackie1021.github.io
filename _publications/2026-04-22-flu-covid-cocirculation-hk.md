@@ -5,8 +5,8 @@ permalink: /publication/2026-04-22-flu-covid-cocirculation-hk
 excerpt: 'First Author | **Manuscript Under Submission** &nbsp;·&nbsp; target: *Nature Human Behaviour* — Benchmarks **three Bayesian transmission models — fully mechanistic, semi-mechanistic, and purely statistical** — against multi-source surveillance data to reconstruct 15 years of subtype-specific influenza immunity in Hong Kong and quantify a durable post-pandemic regime change in influenza–COVID-19 co-circulation.'
 date: 2026-04-22
 venue: 'Nature Human Behaviour'
-submission: true
-citation: 'Chen, J. et al. (2026). "Predicting the time-varying population immunity and importation risk and their impact on co-circulation of influenza and COVID-19 in Hong Kong." <i>Manuscript under submission.</i>'
+status: 'submission'
+citation: '<b>Chen, J.</b>, Wang, H., Wang, D., Lau, Y. C., Hossain, M. P., Ryu, S., Wu, P., Opatowski, L., Cowling, B. J., &amp; Ali, S. T. (2026). &quot;Predicting the time-varying population immunity and importation risk and their impact on co-circulation of influenza and COVID-19 in Hong Kong.&quot; <i>Manuscript under submission.</i>'
 ---
 
 <div style="margin-bottom: 1em;">
@@ -16,6 +16,10 @@ citation: 'Chen, J. et al. (2026). "Predicting the time-varying population immun
   &nbsp;
   <span style="background:#1a5276;color:white;padding:3px 10px;border-radius:12px;font-size:0.85em;">Target: <i>Nature Human Behaviour</i></span>
 </div>
+
+## Authors
+
+**Jiaqi Chen**, Hao Wang, Dong Wang, Yiu Chung Lau, M. Pear Hossain, Sukhyun Ryu, Peng Wu, Lulla Opatowski, Benjamin J. Cowling, Sheikh Taslim Ali
 
 ## Status
 
