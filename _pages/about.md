@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Hi! I’m Jackie — a ‘985’ Physics PhD dropout, ex-algorithm engineer, now PhD researcher @ HKU, and **Founder of [Psycho](/files/psycho_pitch_deck.pdf)** (AI真人心灵社交平台).
+Hi! I’m Jackie — a ‘985’ Physics PhD dropout, ex-algorithm engineer, now PhD researcher @ HKU, and **Founder of [Psycho](https://www.pgyer.com/psycho-android)** (AI真人心灵社交平台) and **[DopaMine](https://www.aurahk.me/)** (0滑动香港线下大学生 AI dating 平台).
 
 I’m currently a first-year PhD student at The University of Hong Kong, working with Prof. [Ben Cowling](https://sph.hku.hk/en/Biography/Cowling-Benjamin-John) and Prof. [Sheikh Taslim Ali](https://sph.hku.hk/en/Biography/Ali-Sheikh-Taslim). I obtained my M.Sc. in Systems Science in 2024 and my B.Eng. in Information Systems and Technology in 2021.
 
@@ -20,14 +20,23 @@ My research interests lie in **Infectious disease modeling (IDM)** and **AI for 
 
 <div style="display:flex;align-items:center;gap:1em;flex-wrap:wrap;margin:1em 0 0.6em 0;">
   <img src="/images/psycho_logo.png" alt="Psycho" style="height:44px;border-radius:8px;">
-  <strong style="font-size:1.1em;">Founder · Psycho &nbsp;<span style="font-weight:400;color:#666;font-size:0.85em;">AI真人心灵社交平台</span></strong>
+  <strong style="font-size:1.1em;">Founder · <a href="https://www.pgyer.com/psycho-android">Psycho</a> &nbsp;<span style="font-weight:400;color:#666;font-size:0.85em;">AI真人心灵社交平台</span></strong>
 </div>
 
-**Psycho** is an AI-driven social networking platform dedicated to revolutionizing how people form meaningful, soulful connections — helping individuals find their true soulmate through authentic AI-powered interaction.
+**[Psycho](https://www.pgyer.com/psycho-android)** is an AI-driven social networking platform dedicated to revolutionizing how people form meaningful, soulful connections — helping individuals find their true soulmate through authentic AI-powered interaction.
 
-[📄 Pitch Deck](/files/psycho_pitch_deck.pdf) &nbsp;·&nbsp; [🎬 Product Intro (中文)](/files/psycho_intro_cn.mp4) &nbsp;·&nbsp; [🎬 Product Intro (English)](/files/psycho_intro_eng.mp4)
+[📱 Download (Android)](https://www.pgyer.com/psycho-android) &nbsp;·&nbsp; [📄 Pitch Deck](/files/psycho_pitch_deck.pdf) &nbsp;·&nbsp; [🎬 Product Intro (中文)](/files/psycho_intro_cn.mp4) &nbsp;·&nbsp; [🎬 Product Intro (English)](/files/psycho_intro_eng.mp4)
 
-> **Key milestones:** 🏆 Merit Award · Hong Kong Techathon+ Finals &nbsp;|&nbsp; 🎓 HKU Techno-Entrepreneurship Core &nbsp;|&nbsp; 💻 Cyberport Incubation Finals &nbsp;|&nbsp; 🚀 **HKSTP Ideation Seed Funding [HK$100K, 0% equity]** &nbsp;|&nbsp; 💰 Cumulative funding: **HK$0.9M**
+<div style="display:flex;align-items:center;gap:1em;flex-wrap:wrap;margin:2em 0 0.6em 0;">
+  <img src="/images/dopamine_logo.png" alt="DopaMine" style="height:44px;border-radius:8px;">
+  <strong style="font-size:1.1em;">Founder · <a href="https://www.aurahk.me/">DopaMine</a> &nbsp;<span style="font-weight:400;color:#666;font-size:0.85em;">0 滑动香港线下大学生 AI dating 平台</span></strong>
+</div>
+
+**[DopaMine](https://www.aurahk.me/)** is an AI-driven offline dating platform for Hong Kong university students — *no swiping, no chatting, no anxiety*. Every Wednesday 7 PM, DopaMine delivers one real, carefully curated date.
+
+[🌐 Visit aurahk.me](https://www.aurahk.me/)
+
+> **Key milestones:** 🏆 Merit Award · Hong Kong Techathon+ Finals &nbsp;|&nbsp; 🎓 HKU Techno-Entrepreneurship Core &nbsp;|&nbsp; 💻 Cyberport Incubation Finals &nbsp;|&nbsp; 🚀 **HKSTP Ideation Seed Funding [HK$100K, 0% equity]** &nbsp;|&nbsp; 🏅 12th HK University Student I&E Competition Finals &nbsp;|&nbsp; 🚀 DopaMine official launch (Jun 2026) &nbsp;|&nbsp; 💰 Cumulative funding: **HK$0.9M**
 >
 > → [View all milestones](/milestones/)
 
