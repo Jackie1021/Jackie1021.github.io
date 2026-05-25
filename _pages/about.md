@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Hi! I’m Jackie — a ‘985’ Physics PhD dropout, ex-algorithm engineer, now PhD researcher @ HKU, and **Founder of [Psycho](https://www.pgyer.com/psycho-android)** (AI真人心灵社交平台) and **[DopaMine](https://www.aurahk.me/)** (0滑动香港线下大学生 AI dating 平台).
+Hi! I’m Jackie — a ‘985’ Physics PhD dropout, ex-algorithm engineer, now PhD researcher @ HKU, and **Founder of [Psycho](https://www.pgyer.com/psycho-android)** (AI真人心灵社交平台) and **[DopaMine](https://www.aurahk.me/)** (0滑动香港线下大学生 AI dating 平台) — **cumulative funding raised: HK$ 1M (≈ USD 128K)**.
 
 I’m currently a first-year PhD student at The University of Hong Kong, working with Prof. [Ben Cowling](https://sph.hku.hk/en/Biography/Cowling-Benjamin-John) and Prof. [Sheikh Taslim Ali](https://sph.hku.hk/en/Biography/Ali-Sheikh-Taslim). I obtained my M.Sc. in Systems Science in 2024 and my B.Eng. in Information Systems and Technology in 2021.
 
@@ -36,7 +36,7 @@ My research interests lie in **Infectious disease modeling (IDM)** and **AI for 
 
 [🌐 Visit aurahk.me](https://www.aurahk.me/)
 
-> **Key milestones:** 🏆 Merit Award · Hong Kong Techathon+ Finals &nbsp;|&nbsp; 🎓 HKU Techno-Entrepreneurship Core &nbsp;|&nbsp; 💻 Cyberport Incubation Finals &nbsp;|&nbsp; 🚀 **HKSTP Ideation Seed Funding [HK$100K, 0% equity]** &nbsp;|&nbsp; 🏅 12th HK University Student I&E Competition Finals &nbsp;|&nbsp; 🚀 DopaMine official launch (Jun 2026) &nbsp;|&nbsp; 💰 Cumulative funding: **HK$0.9M**
+> **Key milestones:** 🚀 **DopaMine official launch** (Jun 2026) &nbsp;|&nbsp; 🏅 12th HK University Student I&E Competition Finals (May 2026) &nbsp;|&nbsp; 📱 Psycho Closed Beta Launch (May 2026) &nbsp;|&nbsp; 🚀 **HKSTP Ideation Seed Funding [HK$100K, 0% equity]** &nbsp;|&nbsp; 💻 Cyberport Incubation Finals &nbsp;|&nbsp; 🎓 HKU Techno-Entrepreneurship Core &nbsp;|&nbsp; 🏆 Merit Award · Hong Kong Techathon+ Finals &nbsp;|&nbsp; 💰 Cumulative funding: **HK$ 1M (≈ USD 128K)**
 >
 > → [View all milestones](/milestones/)
 
