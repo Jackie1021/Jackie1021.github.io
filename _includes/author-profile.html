@@ -37,7 +37,7 @@
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
       {% if author.startup %}
-        <li><a href="{{ author.startup }}"><i class="fas fa-fw fa-rocket icon-pad-right" aria-hidden="true"></i>{{ author.startup_label | default: "Startup" }}</a></li>
+        <li><a href="{{ author.startup }}"><i class="fas fa-fw fa-building icon-pad-right" aria-hidden="true"></i>{{ author.startup_label | default: "Startup" }}</a></li>
       {% endif %}
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
@@ -157,7 +157,7 @@
         <li><a href="https://www.weibo.com/{{ author.weibo }}"><i class="fab fa-fw fa-weibo icon-pad-right" aria-hidden="true"></i>Weibo</a></li>
       {% endif %}
       {% if author.xiaohongshu %}
-        <li><a href="{{ author.xiaohongshu }}"><img src="{{ base_path }}/images/xiaohongshu_icon.svg" alt="Xiaohongshu" class="icon-pad-right" style="width:1em;height:1em;vertical-align:-0.15em;"/>Xiaohongshu</a></li>
+        <li><a href="{{ author.xiaohongshu }}"><img src="{{ base_path }}/images/xiaohongshu_icon.svg" alt="Xiaohongshu" class="icon-pad-right" style="width:1.2em;height:1.2em;vertical-align:-0.25em;"/>Xiaohongshu</a></li>
       {% endif %}
       {% if author.douyin %}
         <li><a href="{{ author.douyin }}"><i class="fab fa-fw fa-tiktok icon-pad-right" aria-hidden="true"></i>Douyin</a></li>
