@@ -29,7 +29,9 @@ author:
   location         : "Hong Kong"
   employer         : "The University of Hong Kong"
   uri              : # URL
-  email            : "jiaqichen@connect.hku.hk" 
+  email            : "jiaqichen@connect.hku.hk"
+  startup          : "http://psychoai.tech/"
+  startup_label    : "PsyAI"
 
   # Academic websites
   academia         : # URL

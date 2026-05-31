@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Hi! I’m Jackie — a ‘985’ Physics PhD dropout, ex-algorithm engineer, now PhD researcher @ HKU, and **Founder of [Psycho](https://www.pgyer.com/psycho-android)** (AI真人心灵社交平台) and **[DopaMine](https://www.aurahk.me/)** (0滑动香港线下大学生 AI dating 平台) — **cumulative funding raised: HK$ 1M (≈ USD 128K)**.
+Hi! I’m Jackie — a ‘985’ Physics PhD dropout, ex-algorithm engineer, now PhD researcher @ HKU, and **Founder of [PsyAI](http://psychoai.tech/)** — whose two flagship products are **[Psycho](https://www.pgyer.com/psycho-android)** (AI真人心灵社交平台) and **[DopaMine](https://www.aurahk.me/)** (0滑动香港线下大学生 AI dating 平台) — **cumulative funding raised: HK$ 1M (≈ USD 128K)**.
 
 I’m currently a first-year PhD student at The University of Hong Kong, working with Prof. [Ben Cowling](https://sph.hku.hk/en/Biography/Cowling-Benjamin-John) and Prof. [Sheikh Taslim Ali](https://sph.hku.hk/en/Biography/Ali-Sheikh-Taslim). I obtained my M.Sc. in Systems Science in 2024 and my B.Eng. in Information Systems and Technology in 2021.
 
