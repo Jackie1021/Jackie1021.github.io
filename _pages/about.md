@@ -36,7 +36,7 @@ My research interests lie in **Infectious disease modeling (IDM)** and **AI for 
 
 [🌐 Visit aurahk.me](https://www.aurahk.me/)
 
-> **Key milestones:** 🏆 **Psycho · Top 10 Finalist — MedTech Hackathon GBA 2026** (Aug 2026) &nbsp;|&nbsp; 🌐 **DopaMine · Global Top 10 Finalist — Injective Nova Program** (Jul 2026) &nbsp;|&nbsp; 🚀 **DopaMine official launch** (Jun 2026) &nbsp;|&nbsp; 🏅 12th HK University Student I&E Competition Finals (May 2026) &nbsp;|&nbsp; 📱 Psycho Closed Beta Launch (May 2026) &nbsp;|&nbsp; 🚀 **HKSTP Ideation Seed Funding [HK$100K, 0% equity]** &nbsp;|&nbsp; 💻 Cyberport Incubation Finals &nbsp;|&nbsp; 🎓 HKU Techno-Entrepreneurship Core &nbsp;|&nbsp; 🏆 Merit Award · Hong Kong Techathon+ Finals &nbsp;|&nbsp; 💰 Cumulative funding: **HK$ 1M (≈ USD 128K)**
+> **Key milestones:** 🏆 **Psycho · Top 10 Finalist — MedTech Hackathon GBA 2026** (Aug 2026) &nbsp;|&nbsp; 🌐 **DopaMine · Global Top 10 Finalist — Injective Nova Program** (Jul 2026) &nbsp;|&nbsp; 🚀 **DopaMine official launch** (Jun 2026) &nbsp;|&nbsp; 🔬 **DopaMine · Deep Tech Programme [HK$100K, 0% equity]** (May 2026) &nbsp;|&nbsp; 🏅 12th HK University Student I&E Competition Finals (May 2026) &nbsp;|&nbsp; 📱 Psycho Closed Beta Launch (May 2026) &nbsp;|&nbsp; 🚀 **HKSTP Ideation Seed Funding [HK$100K, 0% equity]** &nbsp;|&nbsp; 💻 Cyberport Incubation Finals &nbsp;|&nbsp; 🎓 HKU Techno-Entrepreneurship Core &nbsp;|&nbsp; 🏆 Merit Award · Hong Kong Techathon+ Finals &nbsp;|&nbsp; 💰 Cumulative funding: **HK$ 1M (≈ USD 128K)**
 >
 > → [View all milestones](/milestones/)
 
