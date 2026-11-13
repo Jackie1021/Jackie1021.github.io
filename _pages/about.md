@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Hi! I’m Jackie — a ‘985’ Physics PhD dropout, ex-algorithm engineer, now PhD researcher @ HKU, and **Founder of [PsyAI](http://psychoai.tech/)** — whose two flagship products are **[Psycho](https://www.pgyer.com/psycho-android)** (AI真人心灵社交平台) and **[DopaMine](https://www.aurahk.me/)** (0滑动香港线下大学生 AI dating 平台) — **cumulative funding raised: HK$ 1M (≈ USD 128K)**.
+Hi! I’m Jackie — a ‘985’ Physics PhD dropout, ex-algorithm engineer, now PhD researcher @ HKU, and **Founder of [PsyAI](https://psychoai.tech/)**. PsyAI’s products include **[Psycho](https://www.pgyer.com/psycho-android)** (AI真人心灵社交平台), **[DopaMine](https://www.aurahk.me/)** (0滑动香港线下大学生 AI dating 平台), and **[SCOPE](https://talent.psychoai.tech/)** (AI及交叉领域顶尖人才与职业机会平台). **Cumulative funding raised: HK$ 1M (≈ USD 128K).**
 
 I’m currently a first-year PhD student at The University of Hong Kong, working with Prof. [Ben Cowling](https://sph.hku.hk/en/Biography/Cowling-Benjamin-John) and Prof. [Sheikh Taslim Ali](https://sph.hku.hk/en/Biography/Ali-Sheikh-Taslim). I obtained my M.Sc. in Systems Science in 2024 and my B.Eng. in Information Systems and Technology in 2021.
 
@@ -36,7 +36,16 @@ My research interests lie in **Infectious disease modeling (IDM)** and **AI for 
 
 [🌐 Visit aurahk.me](https://www.aurahk.me/)
 
-> **Key milestones:** 🏆 **Psycho · Top 10 Finalist — MedTech Hackathon GBA 2026** (Aug 2026) &nbsp;|&nbsp; 🌐 **DopaMine · Global Top 10 Finalist — Injective Nova Program** (Jul 2026) &nbsp;|&nbsp; 🚀 **DopaMine official launch** (Jun 2026) &nbsp;|&nbsp; 🔬 **DopaMine · Deep Tech Programme [HK$100K, 0% equity]** (May 2026) &nbsp;|&nbsp; 🏅 12th HK University Student I&E Competition Finals (May 2026) &nbsp;|&nbsp; 📱 Psycho Closed Beta Launch (May 2026) &nbsp;|&nbsp; 🚀 **HKSTP Ideation Seed Funding [HK$100K, 0% equity]** &nbsp;|&nbsp; 💻 Cyberport Incubation Finals &nbsp;|&nbsp; 🎓 HKU Techno-Entrepreneurship Core &nbsp;|&nbsp; 🏆 Merit Award · Hong Kong Techathon+ Finals &nbsp;|&nbsp; 💰 Cumulative funding: **HK$ 1M (≈ USD 128K)**
+<div style="display:flex;align-items:center;gap:1em;flex-wrap:wrap;margin:2em 0 0.6em 0;">
+  <img src="/images/scope-icon.svg" alt="SCOPE" style="height:44px;width:44px;border-radius:9px;">
+  <strong style="font-size:1.1em;"><a href="https://talent.psychoai.tech/">SCOPE</a> &nbsp;<span style="font-weight:400;color:#666;font-size:0.85em;">AI及交叉领域顶尖人才与职业机会平台</span></strong>
+</div>
+
+**[SCOPE](https://talent.psychoai.tech/)** is a curated talent platform connecting outstanding AI and interdisciplinary PhD researchers, recent graduates, and student founders with leading technology companies, AI laboratories, and startup teams.
+
+[↗ Discover AI Talent](https://talent.psychoai.tech/)
+
+> **Key milestones:** 🔎 **SCOPE AI Talent Platform launched** (Nov 2026) &nbsp;|&nbsp; 🏆 **Psycho · Top 10 Finalist — MedTech Hackathon GBA 2026** (Aug 2026) &nbsp;|&nbsp; 🌐 **DopaMine · Global Top 10 Finalist — Injective Nova Program** (Jul 2026) &nbsp;|&nbsp; 🚀 **DopaMine official launch** (Jun 2026) &nbsp;|&nbsp; 🔬 **DopaMine · Deep Tech Programme [HK$100K, 0% equity]** (May 2026) &nbsp;|&nbsp; 🏅 12th HK University Student I&E Competition Finals (May 2026) &nbsp;|&nbsp; 📱 Psycho Closed Beta Launch (May 2026) &nbsp;|&nbsp; 🚀 **HKSTP Ideation Seed Funding [HK$100K, 0% equity]** &nbsp;|&nbsp; 💻 Cyberport Incubation Finals &nbsp;|&nbsp; 🎓 HKU Techno-Entrepreneurship Core &nbsp;|&nbsp; 🏆 Merit Award · Hong Kong Techathon+ Finals &nbsp;|&nbsp; 💰 Cumulative funding: **HK$ 1M (≈ USD 128K)**
 >
 > → [View all milestones](/milestones/)
 
