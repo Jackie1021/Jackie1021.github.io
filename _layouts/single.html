@@ -36,6 +36,18 @@ layout: default
         
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+        {% elsif page.collection == 'publications' %}
+          {% if page.status == 'submission' or page.submission %}
+            <p><strong style="color:#e67e22;">Manuscript under submission</strong> &nbsp;·&nbsp; target: <i>{{ page.venue }}</i> &nbsp;·&nbsp; {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% elsif page.status == 'review' %}
+            <p><strong style="color:#e67e22;">Under review</strong> at <i>{{ page.venue }}</i> &nbsp;·&nbsp; {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% elsif page.status == 'submitted' %}
+            <p><strong style="color:#9b59b6;">Submitted</strong> to <i>{{ page.venue }}</i> &nbsp;·&nbsp; {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% elsif page.status == 'preprint' %}
+            <p><strong style="color:#8e44ad;">Preprint</strong> &nbsp;·&nbsp; <i>{{ page.venue }}</i> &nbsp;·&nbsp; {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% else %}
+            <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% endif %}
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}
