@@ -2,19 +2,19 @@
 title: "Predicting the Time-Varying Population Immunity and Importation Risk and Their Impact on Co-Circulation of Influenza and COVID-19 in Hong Kong"
 collection: publications
 permalink: /publication/2026-04-22-flu-covid-cocirculation-hk
-excerpt: 'First Author | **Manuscript Under Submission** &nbsp;·&nbsp; target: *Nature Human Behaviour* — Benchmarks **three Bayesian transmission models — fully mechanistic, semi-mechanistic, and purely statistical** — against multi-source surveillance data to reconstruct 15 years of subtype-specific influenza immunity in Hong Kong and quantify a durable post-pandemic regime change in influenza–COVID-19 co-circulation.'
+excerpt: 'First Author | **Submitted to Nature Human Behaviour** — Benchmarks **three Bayesian transmission models — fully mechanistic, semi-mechanistic, and purely statistical** — against multi-source surveillance data to reconstruct 15 years of subtype-specific influenza immunity in Hong Kong and quantify a durable post-pandemic regime change in influenza–COVID-19 co-circulation.'
 date: 2026-04-22
 venue: 'Nature Human Behaviour'
-status: 'submission'
-citation: '<b>Chen, J.</b>, Wang, H., Wang, D., Lau, Y. C., Hossain, M. P., Ryu, S., Wu, P., Opatowski, L., Cowling, B. J., &amp; Ali, S. T. (2026). &quot;Predicting the time-varying population immunity and importation risk and their impact on co-circulation of influenza and COVID-19 in Hong Kong.&quot; <i>Manuscript under submission.</i>'
+status: 'submitted'
+citation: '<b>Chen, J.</b>, Wang, H., Wang, D., Lau, Y. C., Hossain, M. P., Ryu, S., Wu, P., Opatowski, L., Cowling, B. J., &amp; Ali, S. T. (2026). &quot;Predicting the time-varying population immunity and importation risk and their impact on co-circulation of influenza and COVID-19 in Hong Kong.&quot; Manuscript submitted to <i>Nature Human Behaviour</i>.'
 ---
 
 <div style="margin-bottom: 1em;">
-  <span style="background:#f39c12;color:white;padding:3px 10px;border-radius:12px;font-size:0.85em;font-weight:bold;">📝 Under Submission</span>
+  <span style="background:#9b59b6;color:white;padding:3px 10px;border-radius:12px;font-size:0.85em;font-weight:bold;">Submitted</span>
   &nbsp;
   <span style="background:#2ecc71;color:white;padding:3px 10px;border-radius:12px;font-size:0.85em;font-weight:bold;">First Author</span>
   &nbsp;
-  <span style="background:#1a5276;color:white;padding:3px 10px;border-radius:12px;font-size:0.85em;">Target: <i>Nature Human Behaviour</i></span>
+  <span style="background:#1a5276;color:white;padding:3px 10px;border-radius:12px;font-size:0.85em;"><i>Nature Human Behaviour</i></span>
 </div>
 
 ## Authors
@@ -23,7 +23,7 @@ citation: '<b>Chen, J.</b>, Wang, H., Wang, D., Lau, Y. C., Hossain, M. P., Ryu,
 
 ## Status
 
-**Manuscript currently under submission.** Full preprint and publication links will be added after peer review.
+**Submitted to *Nature Human Behaviour*.** Full preprint and publication links will be added when available.
 
 ## Three-Model Bayesian Benchmarking Framework
 
